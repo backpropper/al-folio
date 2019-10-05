@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Abhinav</strong> Gupta
+description: <a href="https://mila.quebec/en/person/abhinav-gupta/">Mila</a> PhD Student in AI
 
 profile:
   align: right

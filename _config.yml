@@ -1,28 +1,29 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Abhinav Gupta
+email: abhinavgupta94@gmail.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
+github_username: backpropper # your GitHub user name
+twitter_username: backpropper # your Twitter handle
+linkedin_username: backpropper # your LinkedIn user name
+scholar_userid: jAaCd7YAAAAJ # your Google Scholar ID
+semantic_scholar_userid: 48668899
+orcid_id: 0000-0002-3646-2421 # your ORCID ID
+dblp_id: g/Gupta_0002:Abhinav
+medium_username: backpropper # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
@@ -33,8 +34,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+# blog_name: al-folio
+# blog_description: a simple whitespace theme for academics
 
 # Pagination
 paginate: 4
@@ -50,8 +51,8 @@ text:
 disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
+show_social_icons:  true
+enable_anchorjs:    true
 enable_katex:       true
 
 # -----------------------------------------------------------------------------
@@ -91,16 +92,18 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Gupta
+  last_name_eq: Gupta*
 
   style: apa
   locale: en
 
   sort_by: year
   order: descending
+  bibliography_list_tag: ul
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers
   bibliography_template: bib
 
   replace_strings: true
