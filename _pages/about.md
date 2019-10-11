@@ -2,22 +2,19 @@
 layout: about
 permalink: /
 title: <strong>Abhinav</strong> Gupta
-description: <a href="https://mila.quebec/en/person/abhinav-gupta/">Mila</a> PhD Student in AI
+description: PhD Student in Computer Science at <a href="https://mila.quebec/en/person/abhinav-gupta/">Mila</a>/Université de Montréal
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>6666 St Urbain #200</p>
+    <p>Montréal QC H2S 3H1 Canada</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! Thanks for visiting my website. I am Abhinav. I am currently a second-year PhD student at Université de Montréal and part of [Mila](https://mila.quebec/en/person/abhinav-gupta/){:target="\_blank"} working under the supervision of [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="\_blank"}. I am working on multi-agent communication focusing on analyzing compositionality in emergent languages. I am also interested in exploring Evolutionary Game Theory methods in non-cooperative games.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Masters degree in Computer Science from New York University. I was part of the [CILVR Lab](https://wp.nyu.edu/cilvr/){:target="\_blank"} (Computational Intelligence, Learning, Vision, and Robotics) where I worked with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/home){:target="\_blank"} and [Prof. Jason Weston](https://research.fb.com/people/weston-jason/){:target="\_blank"}. During my undergrad, I was an exchange student researcher at Carnegie Mellon University working with [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html){:target="\_blank"} at the Language Technologies Institute. I also spent a semester at the National University of Singapore where I worked with [Prof. Khe Chai Sim](https://ai.google/research/people/105905/){:target="\_blank"} at the School of Computing.
